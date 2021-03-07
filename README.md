@@ -20,9 +20,9 @@ they heaving a task - Manual Tests on an environment called the *COMPANY_2*, but
 ## Description
  The program offers a choice of two defined environments named **COMPANY_1** and **COMPANY_2**, for which we can iterate. 
  
- It is also possible to enter your own names for the **NEW ENVIRONMENT**. 
+It is also possible to enter your own names for the **NEW ENVIRONMENT**. 
  
- The program was written for **6 people**, the iteration runs along the length of the name table. 
+The program was written for **6 people**, the iteration runs along the length of the name table. 
  *So if you enter fewer new names than 6, the program makes a lottery for as many names as given environment names and ends with an error*. 
 
  *Result of error*
