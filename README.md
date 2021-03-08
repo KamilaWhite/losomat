@@ -18,11 +18,13 @@ they heaving a task - Manual Tests on an environment called the *COMPANY_2*, but
 ![alt text](https://github.com/KamilaWhite/losomat/blob/main/attachments/Zrzut%20ekranu%202021-03-7%20o%2021.54.53.png "The result of the draw")
 
 ## Description
- The program offers a choice of two defined environments named **COMPANY_1** and **COMPANY_2**, for which we can iterate. 
- 
-It is also possible to enter your own names for the **NEW ENVIRONMENT**. 
- 
-The program was written for **6 people**, the iteration runs along the length of the name table. 
+After starting the program, a welcome message for the defined employees is displayed. The program was written for **6 people**, the iteration runs along the length of the name table.
+
+The program offers a choice:
+- **COMPANY_1** This is an example of a company for which there is a 6 test environment. After full iteration, the program ends.
+- **COMPANY_2** 
+This is an example of a company for which there is an 8 test environment. After full iteration, the program ends with information about which environments have not been selected for the given employees.
+- **NEW ENVIRONMENT** It is also possible to enter your own names fot the New Environments.
  *So if you enter fewer new names than 6, the program makes a lottery for as many names as given environment names and ends with an error*. 
 
  *Result of error*
